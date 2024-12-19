@@ -67,7 +67,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBPnkxKKCFtXmlQn4-FQ-52" value="sub_category_id int" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="mBPnkxKKCFtXmlQn4-FQ-50">
+        <mxCell id="mBPnkxKKCFtXmlQn4-FQ-52" value="sub_category_id int (OPTIONAL)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="mBPnkxKKCFtXmlQn4-FQ-50">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -488,7 +488,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBPnkxKKCFtXmlQn4-FQ-172" value="sub_category_id  int " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="mBPnkxKKCFtXmlQn4-FQ-170">
+        <mxCell id="mBPnkxKKCFtXmlQn4-FQ-172" value="sub_category_id  int (OPTIONAL)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="mBPnkxKKCFtXmlQn4-FQ-170">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
